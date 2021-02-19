@@ -1,1 +1,8 @@
-<cashnet>result=0&respmessage=success&lname=Thomas&fname=Tessy &pin= abcd &custcode=LKUP14</cashnet>
+<HTML>
+<HEAD>
+<TITLE>Online Student Lookup Form</TITLE>
+</HEAD>
+<BODY>
+<cngateway>result=0&lname=Vijay&fname=LKUP015&pin= abcd &custcode=LKUP015&itemcnt=1&itemcode=BAL&balance=0</cngateway>
+</BODY>
+</HTML>

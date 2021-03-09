@@ -4,7 +4,7 @@
    </HEAD>
    <BODY>
       <cngateway>
-         result=0&lname=Testcned&fname=Judy&pin=abcd&custcode=118557&itemcnt= &ippsrcamtcnt= &custotherdata=
+         result=0&lname=Ragavan&fname=Vijaya&pin=abcd&custcode=118557&itemcnt= &ippsrcamtcnt= &custotherdata=
          <CustomActivity>
             <Main>
                <StudentId>118557</StudentId>

@@ -4,10 +4,10 @@
    </HEAD>
    <BODY>
       <cngateway>
-         result=0&lname=Testcned&fname=Judy&pin=abcd&custcode=118556&itemcnt=&ippsrcamtcnt=&custotherdata=
+         result=0&lname=Testcned&fname=Judy&pin=abcd&custcode=118557&itemcnt= &ippsrcamtcnt= &custotherdata=
          <CustomActivity>
             <Main>
-               <StudentId>118556</StudentId>
+               <StudentId>118557</StudentId>
             </Main>
             <TransactionList>
                <Transaction>

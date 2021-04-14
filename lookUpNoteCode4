@@ -4,6 +4,7 @@
       <result>0</result>
       <respmessage>Successful lookup</respmessage>
       <cust_code>JAYAKUMAR</cust_code>
+      <pin>abcd<pin>
       <last_name>Jayabal</last_name>
       <first_name>Jayakumar</first_name>
       <address_1></address_1>

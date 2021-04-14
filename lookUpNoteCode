@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerLookupResultDS>
+   <LookupResult>
+      <result>0</result>
+      <respmessage>Successful lookup</respmessage>
+      <cust_code>JAYAKUMAR</cust_code>
+      <last_name>Jayabal</last_name>
+      <first_name>Jayakumar</first_name>
+      <address_1></address_1>
+      <address_2></address_2>
+      <address_3></address_3>
+      <city></city>
+      <state></state>
+      <zip></zip>
+      <country>USA</country>
+      <area_code></area_code>
+      <phone_number></phone_number>
+      <email_id>jayakumar.jayabal@transactcampus.com</email_id>
+      <dob>01/01/1970</dob>
+   </LookupResult>
+   <notes>
+      <multi_note_code>Z</multi_note_code>
+   </notes>
+   <notes>
+      <multi_note_code>K</multi_note_code>
+   </notes>
+   <notes>
+      <multi_note_code>C</multi_note_code>
+   </notes>
+</CustomerLookupResultDS>

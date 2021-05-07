@@ -3,7 +3,7 @@
    <LookupResult>
       <result>0</result>
       <respmessage>Successful lookup</respmessage>
-      <cust_code>VK105</cust_code>
+      <cust_code>VK106</cust_code>
       <last_name>K</last_name>
       <first_name>VIJAYARAGAVAN</first_name>
       <address_1></address_1>
@@ -24,8 +24,10 @@
    </notes>
    <notes>
       <multi_note_code>K</multi_note_code>
+      <multi_note_exp_date>07/30/2021</multi_note_exp_date>
    </notes>
    <notes>
       <multi_note_code>C</multi_note_code>
+      <multi_note_exp_date>08/30/2021</multi_note_exp_date>
    </notes>
 </CustomerLookupResultDS>

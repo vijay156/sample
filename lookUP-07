@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-16"?><CustomerLookupResultDS><LookupResult><result>0</result><respmessage>Successful Lookup</respmessage><cust_code>68615</cust_code><last_name>Hicks5</last_name><first_name>Emily5</first_name><address_1>8060 Troy Pike</address_1><city>Versailles</city><state>KY</state><zip>40383 </zip><country>1</country><phone_number> </phone_number><dob>3/10/1998</dob><email_id>no-reply@asbury.edu</email_id></LookupResult><items><item_code>APPLE</item_code><bill_desc>A_Asbury Academy</bill_desc><bill_no/><term>Summary</term><balance_due>-190.00</balance_due><minimum_due>15.00</minimum_due><balotherdata></balotherdata></items></CustomerLookupResultDS>
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerLookupResultDS>
+   <LookupResult>
+      <result>0</result>
+      <respmessage>Successful Lookup</respmessage>
+      <cust_code>68615</cust_code>
+      <last_name>Hicks5</last_name>
+      <first_name>Emily5</first_name>
+      <address_1>8060 Troy Pike</address_1>
+      <city>Versailles</city>
+      <state>KY</state>
+      <zip>40383</zip>
+      <country>1</country>
+      <dob>3/10/1998</dob>
+      <email_id>no-reply@asbury.edu</email_id>
+   </LookupResult>
+   <items>
+      <item_code>APPLE</item_code>
+      <bill_desc>A_Asbury Academy</bill_desc>
+      <bill_no />
+      <item_term>Term11</item_term>
+      <balance_due>190.00</balance_due>
+      <minimum_due>15.00</minimum_due>
+   </items>
+</CustomerLookupResultDS>

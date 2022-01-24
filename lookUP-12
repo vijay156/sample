@@ -1,0 +1,21 @@
+<cashnet>
+result=0&
+lname=Woods&
+fname=Jaylee&
+custcode=523261&
+custgroup=S&
+email=jmwood56@students.campbellsville.edu &
+itemcnt=4&
+itemcode=ITEM1&
+balance=100&
+itemterm=term11&
+itemcode2=ITEM2&
+balance2=200&
+itemterm2=term22&
+itemcode3=ITEM3&
+balance3=200&
+itemterm3=term33&
+itemcode4=ITEM4&
+balance4=200&
+ACTIVITYCNT=1
+</cashnet>

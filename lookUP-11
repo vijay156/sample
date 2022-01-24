@@ -5,12 +5,15 @@ fname=Jaylee&
 custcode=523258&
 custgroup=S&
 email=jmwood56@students.campbellsville.edu &
-itemcnt=2&
+itemcnt=3&
 itemcode=EM-2CLASSES&
 balance=100&
 itemterm=term11&
 itemcode2=TUITION&
 balance2=200&
 itemterm2=term22&
+itemcode3=TUTOR&
+balance2=300&
+itemterm3=&
 ACTIVITYCNT=1
 </cashnet>

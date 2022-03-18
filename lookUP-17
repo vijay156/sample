@@ -19,8 +19,8 @@
 <bill_desc>A_Asbury Academy</bill_desc>
 <bill_no/>
 <item_term>TERM1</item_term>
-<balance_due>190.00</balance_due>
-<minimum_due>15.00</minimum_due>
+<balance_due>1900.00</balance_due>
+<minimum_due>150.00</minimum_due>
 <balotherdata></balotherdata>
 </items>
 <items>
@@ -29,16 +29,16 @@
 <bill_no/>
 <item_term>TERM2</item_term>
 <balance_due>190.00</balance_due>
-<minimum_due>15.00</minimum_due>
+<minimum_due>300.00</minimum_due>
 <balotherdata></balotherdata>
 </items>
 <items>
 <item_code>GRAPES</item_code>
 <bill_desc>C_Asbury Academy</bill_desc>
 <bill_no/>
-<item_term></item_term>
+<item_term>TERM3</item_term>
 <balance_due>190.00</balance_due>
-<minimum_due>15.00</minimum_due>
+<minimum_due>600.00</minimum_due>
 <balotherdata></balotherdata>
 </items>
 <IPPSourceAmount>

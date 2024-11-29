@@ -1,0 +1,94 @@
+<CustomerLookupResultDS>
+	<LookupResult>
+		<result>0</result>
+		<respmessage>Successful lookup</respmessage>
+		<cust_code>REG2025</cust_code>
+		<last_name>Subramanian</last_name>
+		<first_name>Meenatchi Sundaram</first_name>
+		<address_1>Marine Village parkway</address_1>
+		<address_2>ALAMEDA</address_2>
+		<address_3>CA</address_3>
+		<city>Alameda</city>
+		<state>CA</state>
+		<zip>32606</zip>
+		<country>USA</country>
+		<area_code>415</area_code>
+		<phone_number>123456789</phone_number>
+		<email_id>meenatchisundaram.subramaniam20@transactcampus.com</email_id>
+		<dob>01/01/1970</dob>
+	</LookupResult>
+	<items>
+		<item_code>WINTER 2017</item_code>
+		<item_description>WINTER 2017 Updated Description</item_description>
+		<bill_no>WINTER 2017</bill_no>
+		<bill_desc>WINTER 2017</bill_desc>
+		<balance_due>-9195</balance_due>
+		<minimum_due>-9195</minimum_due>
+	</items>
+	<items>
+		<item_code>TERM1</item_code>
+		<item_description>TERM1 Updated Description</item_description>
+		<bill_no>TERM1</bill_no>
+		<bill_desc>TERM1</bill_desc>
+		<balance_due>-1074.32</balance_due>
+		<minimum_due>-1074.32</minimum_due>
+	</items>
+	<items>
+		<item_code>BAT1</item_code>
+		<item_description>BAT1 Description</item_description>
+		<bill_no>FALL</bill_no>
+		<bill_desc>FALL</bill_desc>
+		<balance_due>-2075.78</balance_due>
+		<minimum_due>-2075.78</minimum_due>
+	</items>
+	<items>
+		<item_code>2023WINTER</item_code>
+		<bill_no>2023WINTER</bill_no>
+		<bill_desc>2023WINTER</bill_desc>
+		<balance_due>5000</balance_due>
+		<minimum_due>5000</minimum_due>
+	</items>
+	<items>
+		<item_code>MINDUE</item_code>
+		<bill_no>2023WINTER</bill_no>
+		<bill_desc>2023WINTER</bill_desc>
+		<balance_due>2000</balance_due>
+		<minimum_due>2000</minimum_due>
+	</items>
+	<items>
+		<item_code>APPLE</item_code>
+		<bill_no>TERM1</bill_no>
+		<bill_desc>TERM1</bill_desc>
+		<balance_due>-520</balance_due>
+		<minimum_due>-520</minimum_due>
+	</items>
+	<items>
+		<item_code>BAT12</item_code>
+		<bill_no>FALL</bill_no>
+		<bill_desc>FALL</bill_desc>
+		<balance_due>-1010.03</balance_due>
+		<minimum_due>-1010.03</minimum_due>
+	</items>
+	<IPPSourceAmount>
+		<termcode>WINTER 2017</termcode>
+		<term_description>WINTER 2017 Updated Description</term_description>
+		<ippsourceamountcode>IPPBALANCE</ippsourceamountcode>
+		<amount>-9195</amount>
+	</IPPSourceAmount>
+	<IPPSourceAmount>
+		<termcode>TERM1</termcode>
+		<term_description>TERM1 Updated Description</term_description>
+		<ippsourceamountcode>IPPBALANCE</ippsourceamountcode>
+		<amount>-1074.32</amount>
+	</IPPSourceAmount>
+	<IPPSourceAmount>
+		<termcode>2024WINTER</termcode>
+		<term_description>2024WINTER Updated Description</term_description>
+		<ippsourceamountcode>IPPBALANCE</ippsourceamountcode>
+		<amount>5000</amount>
+	</IPPSourceAmount>
+	<notes>
+		<multi_note_code>Note2</multi_note_code>
+		<multi_note_std_view>N</multi_note_std_view>
+	</notes>
+</CustomerLookupResultDS>

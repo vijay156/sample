@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerLookupResultDS>
+   <LookupResult>
+      <result>0</result>
+      <respmessage>Successful lookup</respmessage>
+      <cust_code>REG29</cust_code>
+      <last_name>K</last_name>
+      <first_name>VIJAYARAGAVAN</first_name>
+      <address_1></address_1>
+      <address_2></address_2>
+      <address_3></address_3>
+      <city></city>
+      <state></state>
+      <zip></zip>
+      <country>USA</country>
+      <area_code></area_code>
+      <phone_number></phone_number>
+      <email_id>Vijayaragavan.Kanagaraj@Transactcampus.com</email_id>
+      <dob>01/01/1970</dob>
+   </LookupResult>
+   <notes>
+      <multi_note_code>Z</multi_note_code>
+      <multi_note_exp_date>11/28/2024</multi_note_exp_date>
+   </notes>
+   <recentactivity>
+      <activity_date>12/01/2024</activity_date>
+      <reference_no>1</reference_no>
+	  <activity_description>Description1</activity_description>
+	  <activity_description_2>Description2</activity_description_2>
+	  <amount>105.50</amount>
+   </recentactivity>
+</CustomerLookupResultDS>

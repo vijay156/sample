@@ -13,8 +13,8 @@
      itemcode2=BAT21&
      itemdescription2=BAT21 KV Created Description&
      itemdesc2=BAT21&
-     balance2=-2075.78&
-     mindue2=-2075.78&
+     balance2=2075.78&
+     mindue2=2075.78&
      billno2=BAT21&
      itemcnt=2&
      ippsourceamountcode=IPPBALANCE&
@@ -24,8 +24,4 @@
      termcode2=TERM1&
      termdescription2=TERM1 KV Updated Description&
      amount2=-1074.32&
-     ippsourceamountcode3=IPPBALANCE&
-     termcode3=2025WINTER&
-     termdescription3=2025WINTER KV Created Description&
-     amount3=5000&
-     ippsrcamtcnt=3</cashnet>
+     ippsrcamtcnt=2</cashnet>
